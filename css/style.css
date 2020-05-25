@@ -1,0 +1,40 @@
+body{
+  background-color: grey;
+}
+
+.login{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 150px;
+}
+
+.logs{
+  display: flex;
+  flex-direction: column;
+}
+
+.button{
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  top: 14px;
+  border-radius: 50px;
+}
+
+.nav{
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+a{
+  color: black;
+}
+
+.banner{
+ display: flex;
+ justify-content: space-around;
+}
